@@ -1,0 +1,4 @@
+=== Deployment Log === 
+Server IP: 148.100.112.187 
+Remote Directory: ~/eth-trading 
+Running: tar -czf deploy.tar.gz . --exclude=node_modules --exclude=dist 

@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eth-trading-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: eth-trading-app
+  template:
+    metadata:
+      labels:
+        app: eth-trading-app
+    spec:
+      containers:
+      - name: eth-trading-app
+        image: eth-trading-app:latest
+        ports:
+        - containerPort: 5173
+        resources:
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+          requests:
+            cpu: "200m"
+            memory: "256Mi" 
