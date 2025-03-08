@@ -2,7 +2,7 @@
 
 This project is a React-based web application designed to interact with the Ethereum blockchain. It leverages modern web development tools and practices to provide a seamless user experience.
 
-## Features
+## Tech Stack
 
 - **React**: Utilizes React for building dynamic user interfaces.
 - **Vite**: Employs Vite for fast and efficient development and build processes.
