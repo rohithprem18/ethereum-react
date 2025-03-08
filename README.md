@@ -41,7 +41,7 @@ The repository includes the following key directories and files:
 
 To set up and run the project locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository** :
 
    ```bash
    git clone https://github.com/rohithprem18/ethereum-react.git
