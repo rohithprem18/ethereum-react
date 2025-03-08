@@ -44,6 +44,8 @@ The repository includes the following key directories and files:
 ## Demo Video
 
 
+https://github.com/user-attachments/assets/bb1a2986-b99d-4c6c-bdfb-143ed86db57b
+
 
 
 ## Getting Started
