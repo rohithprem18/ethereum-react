@@ -38,7 +38,11 @@ The repository includes the following key directories and files:
 - `vite.config.ts`: Configuration for Vite.
 
 ## Website Link
-https://ethereum-d3819.web.app/
+![adobe-express-qr-code (1)](https://github.com/user-attachments/assets/dfab066f-56c7-4d79-b6d6-ba0a611ae7aa)
+
+## Demo Video
+
+
 
 
 ## Getting Started
