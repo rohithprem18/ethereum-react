@@ -37,8 +37,9 @@ The repository includes the following key directories and files:
 - `tsconfig.json` and related files: TypeScript configuration files.
 - `vite.config.ts`: Configuration for Vite.
 
-## Website Link
-![adobe-express-qr-code (1)](https://github.com/user-attachments/assets/dfab066f-56c7-4d79-b6d6-ba0a611ae7aa)
+## Website QR
+<img src="https://github.com/user-attachments/assets/793021a2-8339-4876-a5e8-39e80b2b6667" width="200">
+
 
 ## Demo Video
 
