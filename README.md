@@ -38,7 +38,7 @@ The repository includes the following key directories and files:
 - `vite.config.ts`: Configuration for Vite.
 
 ## Website QR
-<img src="https://github.com/user-attachments/assets/793021a2-8339-4876-a5e8-39e80b2b6667" width="200">
+<img src="https://github.com/user-attachments/assets/64ca4395-dce9-4d67-af26-ecb2995ade47" width="300">
 
 
 ## Demo Video
